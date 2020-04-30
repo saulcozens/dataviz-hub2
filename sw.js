@@ -56,11 +56,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "c929ae69c0f297b562e4d1f5da9077e4"
+    "revision": "72efc2958939f5ae4a5e20e35e960a21"
   },
   {
     "url": "404/index.html",
-    "revision": "dbb21e600924e6330b7b1b0449966db9"
+    "revision": "8c127322dbe766f3970d6ec23f95bcbd"
   },
   {
     "url": "5e2a4920-5917321259284f7110f5.js"
@@ -70,8 +70,8 @@ self.__precacheManifest = [
     "revision": "70ca2e7b22f5829df6ca9181341d4944"
   },
   {
-    "url": "8b83c7fd7bd4899a36c68f9e6766c9a6/index.mdx",
-    "revision": "8b83c7fd7bd4899a36c68f9e6766c9a6"
+    "url": "90899eab091fff968afb9fb484fd21ff/index.mdx",
+    "revision": "90899eab091fff968afb9fb484fd21ff"
   },
   {
     "url": "95b64a6e-72faca4f3982379a287f.js"
@@ -82,130 +82,130 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "bf4b1c7bb57683543fcc5b6b8c4961fe"
+    "revision": "dde3fdbe8305a73a015611a9ff8d3e09"
   },
   {
-    "url": "app-17de4a1790a7ff12c7e7.js"
+    "url": "app-39b5b78a7ddbbfaccd32.js"
   },
   {
-    "url": "app-17de4a1790a7ff12c7e7.js.map",
-    "revision": "f9b4e86fa60dff2adf5ca7ee1dd46fe4"
+    "url": "app-39b5b78a7ddbbfaccd32.js.map",
+    "revision": "8f44ac1ffe388cda52bbf12679772e1f"
   },
   {
     "url": "blog/01/03/2020/award/index.html",
-    "revision": "b8fc52221ef070c99ee7777bca32d483"
+    "revision": "588b45fcd37b9cf474dd506534d61b9f"
   },
   {
     "url": "blog/01/03/2020/dynamic_factor_model_chap1/index.html",
-    "revision": "e35f9453410b525958702557c7f33a81"
+    "revision": "3d8541197b785fc35009d9fd00cc817e"
   },
   {
     "url": "blog/01/03/2020/flag/index.html",
-    "revision": "b2659aca5cf3119aa9d26194af018bd0"
+    "revision": "43fe7d8830775273f3354e94f99642ac"
   },
   {
     "url": "blog/01/03/2020/scientists_awarded_funding/index.html",
-    "revision": "f9586e816497a30811cd9ad57d3b34e3"
+    "revision": "c9268a0cf9fc632e2acf6efdc0b9ef32"
   },
   {
     "url": "blog/01/03/2020/student_survey/index.html",
-    "revision": "9cb882cd9c5b25927a623aed19fb4e7d"
+    "revision": "d0c60a14fc4e1317058dce3305d265a8"
   },
   {
     "url": "blog/06/04/2020/chart_choice/index.html",
-    "revision": "041913841ef3407d4e2495bc6d67a05d"
+    "revision": "055359b5beecbb66884b3e9aaec59120"
   },
   {
     "url": "blog/20/03/2020/test/index.html",
-    "revision": "e72060384dce7dda85072de0d0325172"
+    "revision": "c5ff4168613ccd389d2ec642696729ef"
   },
   {
     "url": "blog/21/03/2020/novel_coronavirus_information/index.html",
-    "revision": "5da066fc2cebba7d6c88cfcfc59276f7"
+    "revision": "861e6274e56098148441bedbc8666e85"
   },
   {
     "url": "blog/22/03/2020/how_to_write_blog_post/index.html",
-    "revision": "41e0398db1742df5899ec79e5cc31222"
+    "revision": "70b7bf141e524f523c459940d72d176b"
   },
   {
     "url": "blog/26/02/2020/new_dataviz/index.html",
-    "revision": "3789c9dea4561c6fa342b406f2fc140a"
+    "revision": "929f93e0edcda79bb1197d09c16dfc1a"
   },
   {
     "url": "blog/27/02/2020/second_test/index.html",
-    "revision": "b01d446c049808b2c4857d9e1ffe9c11"
+    "revision": "cddcf4e1f2783034a08547324a114bbb"
   },
   {
     "url": "blog/category/articles/index.html",
-    "revision": "2f336e00c279ce25a7bff599348e0cfd"
+    "revision": "f7a86852fd8056b72a34a0e7ac80bea3"
   },
   {
     "url": "blog/category/events/index.html",
-    "revision": "c6c59e4ad0cc5ebec5426c57627efb20"
+    "revision": "9a080a3eedc1489a44e04630a3d3d317"
   },
   {
     "url": "blog/category/news/index.html",
-    "revision": "4bccabf5da79ec62ee86b01243da90b2"
+    "revision": "515e95f2426740860ffdc5812f1fb2d3"
   },
   {
     "url": "blog/category/tutorial/index.html",
-    "revision": "ceb81692b90f9a3ea3c04a9df4e2387a"
+    "revision": "6bce79eed9fb636da2dfc5b95160eac0"
   },
   {
     "url": "blog/index.html",
-    "revision": "f1cd85276f6b8f0a2a3b5621349731d1"
+    "revision": "d19b44ab93f3eda84ad6dacf7806d382"
   },
   {
     "url": "blog/page/2/index.html",
-    "revision": "2cd9bb1d60a3ff737d05ab83752f0638"
+    "revision": "993e84f75b0fcb1ce6f95a914de8e659"
   },
   {
     "url": "blog/tag/award/index.html",
-    "revision": "aabc4781ba16860035284d6903cddf21"
+    "revision": "f8abbe35c38984ce1be4bf0fe318ee64"
   },
   {
     "url": "blog/tag/blog/index.html",
-    "revision": "1dec090ce0427d46e95476730e5e17e5"
+    "revision": "81e8c2f6f1ae759fbb989e112a49aa32"
   },
   {
     "url": "blog/tag/dataviz/index.html",
-    "revision": "e896ffb2790b03109410936575934b3d"
+    "revision": "394d2eef65b1432ab6dbb3999c12d95b"
   },
   {
     "url": "blog/tag/neuroscience/index.html",
-    "revision": "00dcdeaa7000122ed6a9aaf241a31946"
+    "revision": "ebb6b53c73f24345b086f1b7d850ae7e"
   },
   {
     "url": "blog/tag/orda/index.html",
-    "revision": "e92cc33b1df241083f219600eb6124a0"
+    "revision": "3276916ef027b64b09d34bc5848ddd3e"
   },
   {
     "url": "blog/tag/science/index.html",
-    "revision": "78f2ff49052a3317e7bcc68caadb6522"
+    "revision": "12e5730d384026b0764755b2178eb27b"
   },
   {
     "url": "blog/tag/staff/index.html",
-    "revision": "3ef8fc79d45a58feec09581cb466c5bb"
+    "revision": "2ed8dda130ceeac8cc32a229a0651534"
   },
   {
     "url": "blog/tag/statistics/index.html",
-    "revision": "2c61004dd4244fe92f202d3dd06c179b"
+    "revision": "331ad65eef2e0d3e084d75372427e453"
   },
   {
     "url": "blog/tag/test/index.html",
-    "revision": "2eb22f0513aaa6dab7f146fa44ddf1b1"
+    "revision": "dc4e88e6d1ae281b23f9b87ba6643a65"
   },
   {
     "url": "blog/tag/the-university-of-sheffield/index.html",
-    "revision": "1da36f9882749e4cf9fdfca673d03a28"
+    "revision": "039c700387e7439ba37a8f185b300a5e"
   },
   {
     "url": "chunk-map.json",
-    "revision": "954a8fb9b57762f53d7e35dcd10d80c9"
+    "revision": "628d6959f60c20535a759c49df00e608"
   },
   {
     "url": "community/index.html",
-    "revision": "77b8d5aa5881895079a859393515d9f3"
+    "revision": "08866472c15ecaa2c4a54de8e8d0f283"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-a68127634f725ba5d352.js"
@@ -300,7 +300,7 @@ self.__precacheManifest = [
   },
   {
     "url": "events/index.html",
-    "revision": "20185347f7be4109cc4c7e40da00dafa"
+    "revision": "ce6937074c893c794bba87b190200126"
   },
   {
     "url": "f1dc00f90147fedcafefffd9495881f75716b132-14c4b2dbdecaad41a1e4.js"
@@ -315,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "flexsearch_index.json",
-    "revision": "b17c0347d5accb4948cb9759a79beb32"
+    "revision": "4bec11e148b3c6a2a10c04bad9ab5734"
   },
   {
     "url": "framework-9f17982936948b7bdb42.js"
@@ -361,7 +361,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "734334f5f64814173f94331a19654541"
+    "revision": "a20164152de5e06d5078ac1f29398d86"
   },
   {
     "url": "manifest.webmanifest",
@@ -369,7 +369,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6af5df1e2373ce7ff62e86992322b8bb"
+    "revision": "8fb43c03e9fe792b2e3c11b5eb8b2a0d"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -385,7 +385,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "a55f6794bf352c976ba4d712cb517f79"
+    "revision": "7cecbb321be0ea98397105dec154f2ae"
   },
   {
     "url": "page-data/blog/01/03/2020/award/page-data.json",
@@ -421,7 +421,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/22/03/2020/how_to_write_blog_post/page-data.json",
-    "revision": "37813fde7d4573d86b0b85ff2c2d4451"
+    "revision": "6143f9a1720bf1e22805d5bd6631ada2"
   },
   {
     "url": "page-data/blog/26/02/2020/new_dataviz/page-data.json",
@@ -445,11 +445,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/category/tutorial/page-data.json",
-    "revision": "1be74ea511169eea1b573b878c92e56a"
+    "revision": "49a3cabe1b2e40b207124f90f9412895"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "ae1e1ee37264722517d38c56cf4dd7dd"
+    "revision": "4bf3aee2aa003cdf81bbaed695aea2a5"
   },
   {
     "url": "page-data/blog/page/2/page-data.json",
@@ -461,7 +461,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/blog/page-data.json",
-    "revision": "c94e2387ca32d304d9465578b9c78a38"
+    "revision": "8d82b0e6e29eaabeb1d30ea391d89242"
   },
   {
     "url": "page-data/blog/tag/dataviz/page-data.json",
@@ -493,7 +493,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/the-university-of-sheffield/page-data.json",
-    "revision": "0b9b7100d2b2b93f4e2de5f2028fd147"
+    "revision": "2c628730123c64d96787a48bb5e21556"
   },
   {
     "url": "page-data/community/page-data.json",
@@ -505,7 +505,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "ed3428591a1984f28ea3ae4f854b296c"
+    "revision": "f6204dd248267861ee0f79152d392b0e"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -517,7 +517,7 @@ self.__precacheManifest = [
   },
   {
     "url": "search/index.html",
-    "revision": "1a1f16cbcf54bb3affa7bde649cd14db"
+    "revision": "823d201310ab6ed56119c613bccbaa3d"
   },
   {
     "url": "static/00ada3a0b7909c3685e5f3ee618354a7/0eb09/SixCharts.png"
@@ -998,7 +998,7 @@ self.__precacheManifest = [
     "revision": "1a983fa4b6c999a6dc0aa375ba02383d"
   },
   {
-    "url": "styles.8f7a7e0ad78592c41551.css"
+    "url": "styles.0150aedb559077f38b5b.css"
   },
   {
     "url": "webpack-runtime-9e75b2c323c93809a6c4.js"
@@ -1009,7 +1009,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "b610a41c2181be546e213772555fd1f2"
+    "revision": "9c961f529836719b2112c1ed522b2ac6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -1102,7 +1102,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/dataviz-hub2/app-17de4a1790a7ff12c7e7.js`))) {
+  if (!resources || !(await caches.match(`/dataviz-hub2/app-39b5b78a7ddbbfaccd32.js`))) {
     return await fetch(event.request)
   }
 

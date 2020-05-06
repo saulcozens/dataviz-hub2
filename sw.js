@@ -63,24 +63,24 @@ self.__precacheManifest = [
     "revision": "c57456a2e354e6227448d4242630c535"
   },
   {
+    "url": "3d2ce7a63c32d600dfd55b5518e1791f/index.mdx",
+    "revision": "3d2ce7a63c32d600dfd55b5518e1791f"
+  },
+  {
     "url": "3e5c819d98181d0f0d3a619b42137200/TypesofData.png",
     "revision": "3e5c819d98181d0f0d3a619b42137200"
   },
   {
     "url": "404.html",
-    "revision": "912db028bef2f553736bc28600e49fe7"
+    "revision": "38eef7cd7ebf9cef4c602571395b9601"
   },
   {
     "url": "404/index.html",
-    "revision": "a729e562fe06230ed37ee968e9f88861"
+    "revision": "b7ca69ab0c82aa59d488ed9570feddd7"
   },
   {
     "url": "469e10a2c9d52272b9df060294671312/nba.jpg",
     "revision": "469e10a2c9d52272b9df060294671312"
-  },
-  {
-    "url": "552ef9091fd51b4dba233b8e6a383dae/index.mdx",
-    "revision": "552ef9091fd51b4dba233b8e6a383dae"
   },
   {
     "url": "5e2a4920-5917321259284f7110f5.js"
@@ -126,7 +126,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "44a14463a765898005b122b202936a01"
+    "revision": "5fe157d6cb9f3905951d6c331af83d0e"
   },
   {
     "url": "app-4c373f4d17c3b9d5ed0b.js"
@@ -145,123 +145,123 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/01/03/2020/award/index.html",
-    "revision": "2491cf6cbe3bd072ea83279c10bdde86"
+    "revision": "e79aac6d6cf9d3327f90b470648caf8b"
   },
   {
     "url": "blog/01/03/2020/dynamic_factor_model_chap1/index.html",
-    "revision": "e0d82081e97110bbf9612473950a6e5e"
+    "revision": "82b5498e317d94276758bc366a87f5ca"
   },
   {
     "url": "blog/01/03/2020/flag/index.html",
-    "revision": "a92a420b978eee74acb92c8076bed0c7"
+    "revision": "615d2bdb6fd143773dbf13040edd38d3"
   },
   {
     "url": "blog/01/03/2020/scientists_awarded_funding/index.html",
-    "revision": "8d7d8a1937985f3ee89036b25439859a"
+    "revision": "ee57c767e1cb01f82987d59a7a9cf1ca"
   },
   {
     "url": "blog/01/03/2020/student_survey/index.html",
-    "revision": "5c9184429c1d25e41f2737feb8728759"
+    "revision": "91b4c53e2604d410dad1a940b1163290"
   },
   {
     "url": "blog/02/05/2020/dataviz_statistics_1/index.html",
-    "revision": "60cc253c692aeec71f7a57bdded33ec1"
+    "revision": "e787ee7fd0158164b3aacb076d294c98"
   },
   {
     "url": "blog/06/04/2020/chart_choice/index.html",
-    "revision": "dd41b0502dc069796e5e5878c356b614"
+    "revision": "0d16a86dfa90be7a7bdf262a0e6bb154"
   },
   {
     "url": "blog/20/03/2020/test/index.html",
-    "revision": "61af209c549b7cbce87f7c882da67d5f"
+    "revision": "fc33aa8f9f1274153f352616f2b6fd14"
   },
   {
     "url": "blog/21/03/2020/novel_coronavirus_information/index.html",
-    "revision": "b8f063b23a17ada8e8c1a7b15b1dc487"
+    "revision": "a90bf14c5a7cc23f9366d48d6110f5c9"
   },
   {
     "url": "blog/22/03/2020/how_to_write_blog_post/index.html",
-    "revision": "3a7d2ffcb90ed3b06aee4853ed266163"
+    "revision": "bd76a32f5d2d29b920acd74eda8d4ae8"
   },
   {
     "url": "blog/26/02/2020/new_dataviz/index.html",
-    "revision": "f0b20106fe97eb66fa2ec0601fe807d4"
+    "revision": "ad47a0770f29a969132a28ab89982406"
   },
   {
     "url": "blog/27/02/2020/second_test/index.html",
-    "revision": "26c2545a07309a504a32cbdf2fcd8415"
+    "revision": "ee5f661f7c0e297438eef248b1352af0"
   },
   {
     "url": "blog/category/articles/index.html",
-    "revision": "c42658410169bfac5fe76c53f33e1de9"
+    "revision": "b137657b5a82c0a93b33e5ca46a1e21c"
   },
   {
     "url": "blog/category/events/index.html",
-    "revision": "65d5e1269cb05520130c014114566157"
+    "revision": "ee206369bb3919338ed1c6871b9bf583"
   },
   {
     "url": "blog/category/news/index.html",
-    "revision": "f0b48fe333d7adf9ff34db4598bb901f"
+    "revision": "5a7b38a844cd8d70730a045bef47f93a"
   },
   {
     "url": "blog/category/tutorial/index.html",
-    "revision": "64876a616f5481541e82015671e90938"
+    "revision": "36bc186f2798f25ff0e0dd0d953eda96"
   },
   {
     "url": "blog/index.html",
-    "revision": "2e2c34d564eb1a569da2f22a21d48fc4"
+    "revision": "9eb05decb1af1fb7687bff11f89b3de0"
   },
   {
     "url": "blog/tag/award/index.html",
-    "revision": "7b79a7babc42dafb0a070c9a49595fd2"
+    "revision": "9c1c137e82fd37efe400e730a89542a1"
   },
   {
     "url": "blog/tag/blog/index.html",
-    "revision": "0e04bed15e3eaa5ff7a8c38aed3d0d4e"
+    "revision": "980b8e41dcb3c4aba65004a3e31e54c8"
   },
   {
     "url": "blog/tag/dataviz/index.html",
-    "revision": "10268af5e29e1a0c14572582ed061735"
+    "revision": "e003302898e02d812146ef3324812965"
   },
   {
     "url": "blog/tag/markdown/index.html",
-    "revision": "0b00f2eb6d2a44412e547f3d5836d67c"
+    "revision": "47893e7502221e1e5875672bd4e4fde2"
   },
   {
     "url": "blog/tag/neuroscience/index.html",
-    "revision": "be6b1d462d5c0f9b00a4875a0ed807f0"
+    "revision": "0f4bbdeed3bcb286d56b5193d742e74e"
   },
   {
     "url": "blog/tag/orda/index.html",
-    "revision": "3e6978aac56502f954a19c245c8222b7"
+    "revision": "4a8b698a382c37e2163e02451757b91f"
   },
   {
     "url": "blog/tag/science/index.html",
-    "revision": "17bbbeb1dac78aee022f49112f30fac3"
+    "revision": "e95f8924ffccec15600164d89578f99b"
   },
   {
     "url": "blog/tag/staff/index.html",
-    "revision": "1f8827049629a4e3531bd4c91c56e870"
+    "revision": "512071c96eef12aeb47dc272cd527513"
   },
   {
     "url": "blog/tag/statistics/index.html",
-    "revision": "0b5b0f0dd26c0461426281da1b79da6d"
+    "revision": "a220d1460ed9e74e6dc31a843d3372ff"
   },
   {
     "url": "blog/tag/test/index.html",
-    "revision": "02a6362b487ef725aa10bbdbe8dec3b4"
+    "revision": "98d89494c3cfe2659ea3a2df175d9761"
   },
   {
     "url": "blog/tag/the-university-of-sheffield/index.html",
-    "revision": "86096cfba78dc46ef5dac9b46eaea7ec"
+    "revision": "bb20062ece22fdbc2b7b619c096562a3"
   },
   {
     "url": "chunk-map.json",
-    "revision": "a1af34c63e962acd30a2f74e81f3d23c"
+    "revision": "5fc4b2614c9f94627263e8354a61e615"
   },
   {
     "url": "community/index.html",
-    "revision": "8b58d835328cc5836d6c2968101532a9"
+    "revision": "e2cb1cc0bea1bf995311bfb92a41510b"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-b0d6f039fb321560c31e.js"
@@ -292,11 +292,11 @@ self.__precacheManifest = [
     "revision": "7a4312c21bb679ab97709c1b07eefda7"
   },
   {
-    "url": "component---src-pages-events-jsx-c7c8fc6bd0f85868c5bf.js"
+    "url": "component---src-pages-events-jsx-1f9cbf096735537145dc.js"
   },
   {
-    "url": "component---src-pages-events-jsx-c7c8fc6bd0f85868c5bf.js.map",
-    "revision": "e6df75d07be131c073ab7c7e456c889e"
+    "url": "component---src-pages-events-jsx-1f9cbf096735537145dc.js.map",
+    "revision": "e308ff5044316924933deb8a4e8cc1ee"
   },
   {
     "url": "component---src-pages-index-jsx-1a16cd017b8c6d9d847a.js"
@@ -363,7 +363,7 @@ self.__precacheManifest = [
   },
   {
     "url": "events/index.html",
-    "revision": "ba9b456e53c4ffc14c21174451f5e35d"
+    "revision": "5b2d691e2f59903b41ed08752dd9a6fc"
   },
   {
     "url": "f87efab2a042d1a312b4e66ce9471f96/award.jpg",
@@ -421,7 +421,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "367e97b152a45536f861a2425c56bcf3"
+    "revision": "5767926bb81eee97139a5205abd9a2c5"
   },
   {
     "url": "manifest.webmanifest",
@@ -429,7 +429,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "dfa40a0bc1fe5e2d16992ee3a08321be"
+    "revision": "6773fe185ccd7a8be883d0f3d195029b"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -445,7 +445,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "d4fa5ada2fbdf857cc48a467468a8dc7"
+    "revision": "6aba310c13762c8e423b90a5c8774694"
   },
   {
     "url": "page-data/blog/01/03/2020/award/page-data.json",
@@ -485,7 +485,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/22/03/2020/how_to_write_blog_post/page-data.json",
-    "revision": "9ef8b68878376f0be279a23441241b3e"
+    "revision": "08e8682fcee9adf7c00e7c732418ec8c"
   },
   {
     "url": "page-data/blog/26/02/2020/new_dataviz/page-data.json",
@@ -509,11 +509,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/category/tutorial/page-data.json",
-    "revision": "60f1a5ad53f22ce576150573a0b03f81"
+    "revision": "85e56dd99645108660b6f67095314e79"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "be402b475583ca1a1dfc8d16dc6a7bd6"
+    "revision": "feaf0c10497476dd89cfde4826470927"
   },
   {
     "url": "page-data/blog/tag/award/page-data.json",
@@ -521,7 +521,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/blog/page-data.json",
-    "revision": "0543840f3a74627a9fea6ade5dbefd26"
+    "revision": "92f3755fa60bb30f8dbd8e69c7ffd9c9"
   },
   {
     "url": "page-data/blog/tag/dataviz/page-data.json",
@@ -529,7 +529,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/markdown/page-data.json",
-    "revision": "83c90b226a086bb8605981ea206513b8"
+    "revision": "b48d1d5a69cb017356f2a4a0d1f9799c"
   },
   {
     "url": "page-data/blog/tag/neuroscience/page-data.json",
@@ -569,7 +569,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "f7c9cb07727bc47f769332aacff3f3b0"
+    "revision": "e52e3b706862045503770be2ac732b2a"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -581,7 +581,7 @@ self.__precacheManifest = [
   },
   {
     "url": "search/index.html",
-    "revision": "45ee26f0c6c396c8e42c68097b4c60d1"
+    "revision": "0fd64e8e126315d451bacc1056a5d3dc"
   },
   {
     "url": "static/0b4fd531c4d7e2b13cad834b37cad1fc/2244e/Y.L_Weng.jpg"
@@ -1098,18 +1098,18 @@ self.__precacheManifest = [
     "revision": "6b5a725d18007293b14f36296ba26093"
   },
   {
-    "url": "styles.c280d485a8570fa4384a.css"
+    "url": "styles.442715e9332bf676595d.css"
   },
   {
-    "url": "webpack-runtime-0530d3f781cfe76e7583.js"
+    "url": "webpack-runtime-8271f88309f135b0edec.js"
   },
   {
-    "url": "webpack-runtime-0530d3f781cfe76e7583.js.map",
-    "revision": "f5d6bf2ce8888fff99b0fc604bc6f428"
+    "url": "webpack-runtime-8271f88309f135b0edec.js.map",
+    "revision": "3296eb6826980c6403a5c49b899f4682"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "8983381107979f33e4f2ba16e0bdb96a"
+    "revision": "aa558ce45d28220b0dd6cc2670e9cdee"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -27,6 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
+    "url": "00ada3a0b7909c3685e5f3ee618354a7/SixCharts.png",
+    "revision": "00ada3a0b7909c3685e5f3ee618354a7"
+  },
+  {
     "url": "1bfc9850-37c71addd7dbe502309e.js"
   },
   {
@@ -48,6 +52,10 @@ self.__precacheManifest = [
     "revision": "a5dd4d43054d99e5323f4f202a3f7fbe"
   },
   {
+    "url": "25fffed93c38f0fc849f23da47ea66ae/Deviation2.png",
+    "revision": "25fffed93c38f0fc849f23da47ea66ae"
+  },
+  {
     "url": "2d6d976b34659ebc657e42907ecf5fb066d46945-12627e5cf2fa5c72622b.js"
   },
   {
@@ -55,12 +63,24 @@ self.__precacheManifest = [
     "revision": "c57456a2e354e6227448d4242630c535"
   },
   {
+    "url": "3e5c819d98181d0f0d3a619b42137200/TypesofData.png",
+    "revision": "3e5c819d98181d0f0d3a619b42137200"
+  },
+  {
     "url": "404.html",
-    "revision": "c653fae74881a140a474ae0347090a38"
+    "revision": "912db028bef2f553736bc28600e49fe7"
   },
   {
     "url": "404/index.html",
-    "revision": "24719a301bb9c1c798a175a8e80775ec"
+    "revision": "a729e562fe06230ed37ee968e9f88861"
+  },
+  {
+    "url": "469e10a2c9d52272b9df060294671312/nba.jpg",
+    "revision": "469e10a2c9d52272b9df060294671312"
+  },
+  {
+    "url": "552ef9091fd51b4dba233b8e6a383dae/index.mdx",
+    "revision": "552ef9091fd51b4dba233b8e6a383dae"
   },
   {
     "url": "5e2a4920-5917321259284f7110f5.js"
@@ -70,8 +90,20 @@ self.__precacheManifest = [
     "revision": "70ca2e7b22f5829df6ca9181341d4944"
   },
   {
+    "url": "603e72ea82932164d1edff27806072a2/Relationship1.png",
+    "revision": "603e72ea82932164d1edff27806072a2"
+  },
+  {
     "url": "646aa94d9498a2d5ab1c0f2633cc95a8/img_3.svg",
     "revision": "646aa94d9498a2d5ab1c0f2633cc95a8"
+  },
+  {
+    "url": "8df2d8c7fa72b24df31c141700f56dbe/Compare.png",
+    "revision": "8df2d8c7fa72b24df31c141700f56dbe"
+  },
+  {
+    "url": "8f09fab6cb79bc5f33f737ffdac49453/img_2.png",
+    "revision": "8f09fab6cb79bc5f33f737ffdac49453"
   },
   {
     "url": "95b64a6e-366e6e9cd84aa74ede2a.js"
@@ -81,139 +113,155 @@ self.__precacheManifest = [
     "revision": "5c8d67b0e7bb67e83f5085ec84a569d6"
   },
   {
+    "url": "9da8c08ae750717b448e74820f5893b2/nss.jpg",
+    "revision": "9da8c08ae750717b448e74820f5893b2"
+  },
+  {
+    "url": "a3b1ee43e3d647663c4facca99b37aca/data_has.jpg",
+    "revision": "a3b1ee43e3d647663c4facca99b37aca"
+  },
+  {
+    "url": "a5f24356802da739ca3b96f45667c2e6/hear.jpg",
+    "revision": "a5f24356802da739ca3b96f45667c2e6"
+  },
+  {
     "url": "about/index.html",
-    "revision": "2b31b7b3891bf458710ae5ee35a1f856"
+    "revision": "44a14463a765898005b122b202936a01"
   },
   {
-    "url": "ad42c497974ba4aaca3a0f60ff2a8581/index.mdx",
-    "revision": "ad42c497974ba4aaca3a0f60ff2a8581"
+    "url": "app-4c373f4d17c3b9d5ed0b.js"
   },
   {
-    "url": "app-2e4f42362def51043b04.js"
+    "url": "app-4c373f4d17c3b9d5ed0b.js.map",
+    "revision": "a4ed718e98de4617f7aee42d9170394a"
   },
   {
-    "url": "app-2e4f42362def51043b04.js.map",
-    "revision": "b60cf71d97165fb8671bc202294bc588"
+    "url": "b35659b84c41c4f894d576a4dc178f20/Distribution1.png",
+    "revision": "b35659b84c41c4f894d576a4dc178f20"
+  },
+  {
+    "url": "b4cbf28e22e521e30c82125257f309ca/temp.jpg",
+    "revision": "b4cbf28e22e521e30c82125257f309ca"
   },
   {
     "url": "blog/01/03/2020/award/index.html",
-    "revision": "c8caaa06ab7e08ac86be9ad1f85aa05e"
+    "revision": "2491cf6cbe3bd072ea83279c10bdde86"
   },
   {
     "url": "blog/01/03/2020/dynamic_factor_model_chap1/index.html",
-    "revision": "ee74f450b4d636eb20eae0038437fedb"
+    "revision": "e0d82081e97110bbf9612473950a6e5e"
   },
   {
     "url": "blog/01/03/2020/flag/index.html",
-    "revision": "289c5058b23dd01574cb0405ee132702"
+    "revision": "a92a420b978eee74acb92c8076bed0c7"
   },
   {
     "url": "blog/01/03/2020/scientists_awarded_funding/index.html",
-    "revision": "93808e3bc2c66ab072e960c85d7b3eaa"
+    "revision": "8d7d8a1937985f3ee89036b25439859a"
   },
   {
     "url": "blog/01/03/2020/student_survey/index.html",
-    "revision": "14facc860bc780f5f6a619e4621bbf55"
+    "revision": "5c9184429c1d25e41f2737feb8728759"
   },
   {
     "url": "blog/02/05/2020/dataviz_statistics_1/index.html",
-    "revision": "b9f1bab6640aaadb008f4a27b10cbc0d"
+    "revision": "60cc253c692aeec71f7a57bdded33ec1"
   },
   {
     "url": "blog/06/04/2020/chart_choice/index.html",
-    "revision": "01f6cd9326179fe39a713f1dae7733aa"
+    "revision": "dd41b0502dc069796e5e5878c356b614"
   },
   {
     "url": "blog/20/03/2020/test/index.html",
-    "revision": "1130f4343a54ed182a5bd247234ce2f2"
+    "revision": "61af209c549b7cbce87f7c882da67d5f"
   },
   {
     "url": "blog/21/03/2020/novel_coronavirus_information/index.html",
-    "revision": "e66944e2840cf58046c129652950b84c"
+    "revision": "b8f063b23a17ada8e8c1a7b15b1dc487"
   },
   {
     "url": "blog/22/03/2020/how_to_write_blog_post/index.html",
-    "revision": "ae1938472a8246d9720dc2652d7ee781"
+    "revision": "3a7d2ffcb90ed3b06aee4853ed266163"
   },
   {
     "url": "blog/26/02/2020/new_dataviz/index.html",
-    "revision": "bcca8477fc4d1ea691ea9612d2c75c5d"
+    "revision": "f0b20106fe97eb66fa2ec0601fe807d4"
   },
   {
     "url": "blog/27/02/2020/second_test/index.html",
-    "revision": "633df3cef9d302da1bc7b71a11b205bc"
+    "revision": "26c2545a07309a504a32cbdf2fcd8415"
   },
   {
     "url": "blog/category/articles/index.html",
-    "revision": "7a80673be3cbbac85c79acd684b79747"
+    "revision": "c42658410169bfac5fe76c53f33e1de9"
   },
   {
     "url": "blog/category/events/index.html",
-    "revision": "f14e56b2377f892316efaf800322f0d6"
+    "revision": "65d5e1269cb05520130c014114566157"
   },
   {
     "url": "blog/category/news/index.html",
-    "revision": "bc239f613dc7ef00333ac0cad6a9f209"
+    "revision": "f0b48fe333d7adf9ff34db4598bb901f"
   },
   {
     "url": "blog/category/tutorial/index.html",
-    "revision": "0cad7c4e4f6993cdfbcaa2cffa73f962"
+    "revision": "64876a616f5481541e82015671e90938"
   },
   {
     "url": "blog/index.html",
-    "revision": "56f7bc1f05f5a1a9e4cdde66f2362b0d"
+    "revision": "2e2c34d564eb1a569da2f22a21d48fc4"
   },
   {
     "url": "blog/tag/award/index.html",
-    "revision": "1b1732e4e809633d903775e842185136"
+    "revision": "7b79a7babc42dafb0a070c9a49595fd2"
   },
   {
     "url": "blog/tag/blog/index.html",
-    "revision": "4b204728269e78ff0caedcf9b036796e"
+    "revision": "0e04bed15e3eaa5ff7a8c38aed3d0d4e"
   },
   {
     "url": "blog/tag/dataviz/index.html",
-    "revision": "befeca23a109f7119755b4ed3fd8a0f0"
+    "revision": "10268af5e29e1a0c14572582ed061735"
   },
   {
     "url": "blog/tag/markdown/index.html",
-    "revision": "08efff083e14bf7086e94e626b87912c"
+    "revision": "0b00f2eb6d2a44412e547f3d5836d67c"
   },
   {
     "url": "blog/tag/neuroscience/index.html",
-    "revision": "b5ad12f5105d68361d344ebe1d1583b2"
+    "revision": "be6b1d462d5c0f9b00a4875a0ed807f0"
   },
   {
     "url": "blog/tag/orda/index.html",
-    "revision": "f647a8560e27a717929f3358d50472fb"
+    "revision": "3e6978aac56502f954a19c245c8222b7"
   },
   {
     "url": "blog/tag/science/index.html",
-    "revision": "081bc4493eae4f19f89e29d5278aa7f1"
+    "revision": "17bbbeb1dac78aee022f49112f30fac3"
   },
   {
     "url": "blog/tag/staff/index.html",
-    "revision": "70e87aa5292a8df6c9abf7a0450e5bb7"
+    "revision": "1f8827049629a4e3531bd4c91c56e870"
   },
   {
     "url": "blog/tag/statistics/index.html",
-    "revision": "65ffdd8a4eaf42b5c15c1186536bc373"
+    "revision": "0b5b0f0dd26c0461426281da1b79da6d"
   },
   {
     "url": "blog/tag/test/index.html",
-    "revision": "c82bbd95cd0e7de6fd63df5ab58b9ea0"
+    "revision": "02a6362b487ef725aa10bbdbe8dec3b4"
   },
   {
     "url": "blog/tag/the-university-of-sheffield/index.html",
-    "revision": "93be44f0dc218c4db37492e8a1fe92cb"
+    "revision": "86096cfba78dc46ef5dac9b46eaea7ec"
   },
   {
     "url": "chunk-map.json",
-    "revision": "6f6d58bb7c0fc9db33de495bb8674aaf"
+    "revision": "a1af34c63e962acd30a2f74e81f3d23c"
   },
   {
     "url": "community/index.html",
-    "revision": "0e66c2cfaa79bc7a782f726a25812d4d"
+    "revision": "8b58d835328cc5836d6c2968101532a9"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-b0d6f039fb321560c31e.js"
@@ -276,14 +324,14 @@ self.__precacheManifest = [
   },
   {
     "url": "component---src-templates-blog-post-template-custom-jsx-990788065237c88e1da8.js.map",
-    "revision": "eb7ae1b69a613ba12a39abce11616713"
+    "revision": "d3b1e5ee0e796c265c75ea6434d3909e"
   },
   {
     "url": "component---src-templates-blog-post-template-jsx-1f163d6b128dee02697b.js"
   },
   {
     "url": "component---src-templates-blog-post-template-jsx-1f163d6b128dee02697b.js.map",
-    "revision": "29a390c43a09b6cd18362630f9515b24"
+    "revision": "9bc1561d95f03eca4958735b70b89ce0"
   },
   {
     "url": "component---src-templates-blog-tag-template-jsx-5aeebc9e0048324199ef.js"
@@ -315,7 +363,11 @@ self.__precacheManifest = [
   },
   {
     "url": "events/index.html",
-    "revision": "d9bd22bac3a98ccb7883e4f01df75a8f"
+    "revision": "ba9b456e53c4ffc14c21174451f5e35d"
+  },
+  {
+    "url": "f87efab2a042d1a312b4e66ce9471f96/award.jpg",
+    "revision": "f87efab2a042d1a312b4e66ce9471f96"
   },
   {
     "url": "favicon-32x32.png",
@@ -323,7 +375,7 @@ self.__precacheManifest = [
   },
   {
     "url": "flexsearch_index.json",
-    "revision": "a9445fac7f90c3a61fc4364c17c2f5bb"
+    "revision": "01e3c7e2dc571bd32a6d6f4b595efd3a"
   },
   {
     "url": "framework-10a9839e3a7f539f43b6.js"
@@ -369,7 +421,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5302582e7f110a5197dcaa87599b5b69"
+    "revision": "367e97b152a45536f861a2425c56bcf3"
   },
   {
     "url": "manifest.webmanifest",
@@ -377,7 +429,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "44dd8439dcdac19054381309423e121f"
+    "revision": "dfa40a0bc1fe5e2d16992ee3a08321be"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -393,15 +445,15 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "eeed8c7c6feb2730c2090f263ccd49b1"
+    "revision": "d4fa5ada2fbdf857cc48a467468a8dc7"
   },
   {
     "url": "page-data/blog/01/03/2020/award/page-data.json",
-    "revision": "b2922c557a40c7e4262694b9b6134074"
+    "revision": "e48b2b4c82d0ad6a342a78448e703c3b"
   },
   {
     "url": "page-data/blog/01/03/2020/dynamic_factor_model_chap1/page-data.json",
-    "revision": "1cb900b79c6116ccd1a89062af3309aa"
+    "revision": "ca2f66468748317c47d0ad66344f71a8"
   },
   {
     "url": "page-data/blog/01/03/2020/flag/page-data.json",
@@ -409,19 +461,19 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/01/03/2020/scientists_awarded_funding/page-data.json",
-    "revision": "7da5968904ed61454914ec4931c0df2f"
+    "revision": "d908b12f498388340275c6d68434b291"
   },
   {
     "url": "page-data/blog/01/03/2020/student_survey/page-data.json",
-    "revision": "630ed79a529e0b515bc3b2b0d9bb40a2"
+    "revision": "dfd5c13c206474d0c7a24a60734f5d26"
   },
   {
     "url": "page-data/blog/02/05/2020/dataviz_statistics_1/page-data.json",
-    "revision": "a556e0c2ee3f309f82e0e14fa3212843"
+    "revision": "34498353a0ccbe8b2df701b614aa70aa"
   },
   {
     "url": "page-data/blog/06/04/2020/chart_choice/page-data.json",
-    "revision": "59bcdcbbf40c568b001f34dc280255fe"
+    "revision": "c4102caf88ef41c5e6d59c154a569e4f"
   },
   {
     "url": "page-data/blog/20/03/2020/test/page-data.json",
@@ -433,11 +485,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/22/03/2020/how_to_write_blog_post/page-data.json",
-    "revision": "a6d109d35d1c6283fdc93838230c8d92"
+    "revision": "9ef8b68878376f0be279a23441241b3e"
   },
   {
     "url": "page-data/blog/26/02/2020/new_dataviz/page-data.json",
-    "revision": "2add72d2c252732757364ce142b4c9f1"
+    "revision": "00706b5d65dd9d4cf13b965505e4b18a"
   },
   {
     "url": "page-data/blog/27/02/2020/second_test/page-data.json",
@@ -457,11 +509,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/category/tutorial/page-data.json",
-    "revision": "dbde0dd0d7ae293f01f02ea23378761b"
+    "revision": "60f1a5ad53f22ce576150573a0b03f81"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "0e6c7eb347f43278a4734430af9a3ebb"
+    "revision": "be402b475583ca1a1dfc8d16dc6a7bd6"
   },
   {
     "url": "page-data/blog/tag/award/page-data.json",
@@ -469,7 +521,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/blog/page-data.json",
-    "revision": "8d303a4f8cac47c3d27ca5d48eb44fb5"
+    "revision": "0543840f3a74627a9fea6ade5dbefd26"
   },
   {
     "url": "page-data/blog/tag/dataviz/page-data.json",
@@ -477,7 +529,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/tag/markdown/page-data.json",
-    "revision": "fe4dabdd86c12117eae43e1eecc7f903"
+    "revision": "83c90b226a086bb8605981ea206513b8"
   },
   {
     "url": "page-data/blog/tag/neuroscience/page-data.json",
@@ -513,11 +565,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/events/page-data.json",
-    "revision": "954b9dedcdd4894ba95407207a51ad92"
+    "revision": "b4dac139ce825d299f4f1bb723b409ed"
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "e12192efd498eed93c08cae8bb251eed"
+    "revision": "f7c9cb07727bc47f769332aacff3f3b0"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -529,25 +581,7 @@ self.__precacheManifest = [
   },
   {
     "url": "search/index.html",
-    "revision": "3a0d92a9ccec07d70cf72b392ac635b7"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/0eb09/SixCharts.png"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/1263b/SixCharts.png"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/348c4/SixCharts.png"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/6ffd1/SixCharts.png"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/86700/SixCharts.png"
-  },
-  {
-    "url": "static/00ada3a0b7909c3685e5f3ee618354a7/f97d7/SixCharts.png"
+    "revision": "45ee26f0c6c396c8e42c68097b4c60d1"
   },
   {
     "url": "static/0b4fd531c4d7e2b13cad834b37cad1fc/2244e/Y.L_Weng.jpg"
@@ -607,39 +641,6 @@ self.__precacheManifest = [
     "url": "static/21d74287ad45f8bb3ed575643156ae9d/c85f0/arts.jpg"
   },
   {
-    "url": "static/25fffed93c38f0fc849f23da47ea66ae/0eb09/Deviation2.png"
-  },
-  {
-    "url": "static/25fffed93c38f0fc849f23da47ea66ae/1263b/Deviation2.png"
-  },
-  {
-    "url": "static/25fffed93c38f0fc849f23da47ea66ae/86700/Deviation2.png"
-  },
-  {
-    "url": "static/25fffed93c38f0fc849f23da47ea66ae/a0a10/Deviation2.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/0eb09/TypesofData.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/1263b/TypesofData.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/6ffd1/TypesofData.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/86700/TypesofData.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/8d3c2/TypesofData.png"
-  },
-  {
-    "url": "static/3e5c819d98181d0f0d3a619b42137200/f97d7/TypesofData.png"
-  },
-  {
-    "url": "static/469e10a2c9d52272b9df060294671312/0a251/nba.jpg"
-  },
-  {
     "url": "static/469e10a2c9d52272b9df060294671312/0e329/nba.jpg"
   },
   {
@@ -652,28 +653,10 @@ self.__precacheManifest = [
     "url": "static/469e10a2c9d52272b9df060294671312/47498/nba.jpg"
   },
   {
-    "url": "static/469e10a2c9d52272b9df060294671312/953fe/nba.jpg"
-  },
-  {
-    "url": "static/469e10a2c9d52272b9df060294671312/bce2d/nba.jpg"
-  },
-  {
     "url": "static/469e10a2c9d52272b9df060294671312/d8255/nba.jpg"
   },
   {
     "url": "static/469e10a2c9d52272b9df060294671312/f836f/nba.jpg"
-  },
-  {
-    "url": "static/603e72ea82932164d1edff27806072a2/0eb09/Relationship1.png"
-  },
-  {
-    "url": "static/603e72ea82932164d1edff27806072a2/1263b/Relationship1.png"
-  },
-  {
-    "url": "static/603e72ea82932164d1edff27806072a2/69083/Relationship1.png"
-  },
-  {
-    "url": "static/603e72ea82932164d1edff27806072a2/86700/Relationship1.png"
   },
   {
     "url": "static/677d3abf75ddc6139ac411467c792eef/14b42/test1.jpg"
@@ -715,24 +698,6 @@ self.__precacheManifest = [
     "url": "static/873350e406407b3316da2e9a12713b2e/7dac8/Charts_Thumb.png"
   },
   {
-    "url": "static/8df2d8c7fa72b24df31c141700f56dbe/0eb09/Compare.png"
-  },
-  {
-    "url": "static/8df2d8c7fa72b24df31c141700f56dbe/51f47/Compare.png"
-  },
-  {
-    "url": "static/8df2d8c7fa72b24df31c141700f56dbe/86700/Compare.png"
-  },
-  {
-    "url": "static/8f09fab6cb79bc5f33f737ffdac49453/0eb09/img_2.png"
-  },
-  {
-    "url": "static/8f09fab6cb79bc5f33f737ffdac49453/0f09e/img_2.png"
-  },
-  {
-    "url": "static/8f09fab6cb79bc5f33f737ffdac49453/86700/img_2.png"
-  },
-  {
     "url": "static/98f53e94125f8b6b49696d5765f9c537/2244e/img_1.jpg"
   },
   {
@@ -748,19 +713,7 @@ self.__precacheManifest = [
     "url": "static/9da8c08ae750717b448e74820f5893b2/2244e/nss.jpg"
   },
   {
-    "url": "static/9da8c08ae750717b448e74820f5893b2/953fe/nss.jpg"
-  },
-  {
-    "url": "static/9da8c08ae750717b448e74820f5893b2/a24e6/nss.jpg"
-  },
-  {
-    "url": "static/9da8c08ae750717b448e74820f5893b2/bce2d/nss.jpg"
-  },
-  {
     "url": "static/9da8c08ae750717b448e74820f5893b2/f836f/nss.jpg"
-  },
-  {
-    "url": "static/a3b1ee43e3d647663c4facca99b37aca/0a251/data_has.jpg"
   },
   {
     "url": "static/a3b1ee43e3d647663c4facca99b37aca/0e329/data_has.jpg"
@@ -778,31 +731,13 @@ self.__precacheManifest = [
     "url": "static/a3b1ee43e3d647663c4facca99b37aca/47498/data_has.jpg"
   },
   {
-    "url": "static/a3b1ee43e3d647663c4facca99b37aca/953fe/data_has.jpg"
-  },
-  {
-    "url": "static/a3b1ee43e3d647663c4facca99b37aca/bce2d/data_has.jpg"
-  },
-  {
-    "url": "static/a3b1ee43e3d647663c4facca99b37aca/e3932/data_has.jpg"
-  },
-  {
     "url": "static/a3b1ee43e3d647663c4facca99b37aca/f836f/data_has.jpg"
-  },
-  {
-    "url": "static/a5f24356802da739ca3b96f45667c2e6/12c12/hear.jpg"
   },
   {
     "url": "static/a5f24356802da739ca3b96f45667c2e6/2244e/hear.jpg"
   },
   {
-    "url": "static/a5f24356802da739ca3b96f45667c2e6/953fe/hear.jpg"
-  },
-  {
     "url": "static/a5f24356802da739ca3b96f45667c2e6/9e240/hear.jpg"
-  },
-  {
-    "url": "static/a5f24356802da739ca3b96f45667c2e6/bce2d/hear.jpg"
   },
   {
     "url": "static/a5f24356802da739ca3b96f45667c2e6/f836f/hear.jpg"
@@ -826,18 +761,6 @@ self.__precacheManifest = [
     "url": "static/afa28dd3acb9b9f69609abe91a798f55/f836f/advice.jpg"
   },
   {
-    "url": "static/b35659b84c41c4f894d576a4dc178f20/0eb09/Distribution1.png"
-  },
-  {
-    "url": "static/b35659b84c41c4f894d576a4dc178f20/2d709/Distribution1.png"
-  },
-  {
-    "url": "static/b35659b84c41c4f894d576a4dc178f20/86700/Distribution1.png"
-  },
-  {
-    "url": "static/b4cbf28e22e521e30c82125257f309ca/0a251/temp.jpg"
-  },
-  {
     "url": "static/b4cbf28e22e521e30c82125257f309ca/0e329/temp.jpg"
   },
   {
@@ -850,19 +773,7 @@ self.__precacheManifest = [
     "url": "static/b4cbf28e22e521e30c82125257f309ca/47498/temp.jpg"
   },
   {
-    "url": "static/b4cbf28e22e521e30c82125257f309ca/953fe/temp.jpg"
-  },
-  {
-    "url": "static/b4cbf28e22e521e30c82125257f309ca/aaf92/temp.jpg"
-  },
-  {
-    "url": "static/b4cbf28e22e521e30c82125257f309ca/bce2d/temp.jpg"
-  },
-  {
     "url": "static/b4cbf28e22e521e30c82125257f309ca/d8255/temp.jpg"
-  },
-  {
-    "url": "static/b4cbf28e22e521e30c82125257f309ca/e3932/temp.jpg"
   },
   {
     "url": "static/b4cbf28e22e521e30c82125257f309ca/f836f/temp.jpg"
@@ -982,19 +893,10 @@ self.__precacheManifest = [
     "url": "static/f5113049c1e439a1a6db9efecae10d3c/ce222/blog_p.jpg"
   },
   {
-    "url": "static/f87efab2a042d1a312b4e66ce9471f96/12c12/award.jpg"
-  },
-  {
     "url": "static/f87efab2a042d1a312b4e66ce9471f96/2244e/award.jpg"
   },
   {
-    "url": "static/f87efab2a042d1a312b4e66ce9471f96/953fe/award.jpg"
-  },
-  {
     "url": "static/f87efab2a042d1a312b4e66ce9471f96/9e240/award.jpg"
-  },
-  {
-    "url": "static/f87efab2a042d1a312b4e66ce9471f96/bce2d/award.jpg"
   },
   {
     "url": "static/f87efab2a042d1a312b4e66ce9471f96/f836f/award.jpg"
@@ -1207,7 +1109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "19b45ea27f92457b9442088eccda9e9c"
+    "revision": "8983381107979f33e4f2ba16e0bdb96a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -1300,7 +1202,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/dataviz-hub2/app-2e4f42362def51043b04.js`))) {
+  if (!resources || !(await caches.match(`/dataviz-hub2/app-4c373f4d17c3b9d5ed0b.js`))) {
     return await fetch(event.request)
   }
 

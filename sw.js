@@ -72,11 +72,11 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "38eef7cd7ebf9cef4c602571395b9601"
+    "revision": "209c5858723725d52d61ab56ed57ec0d"
   },
   {
     "url": "404/index.html",
-    "revision": "b7ca69ab0c82aa59d488ed9570feddd7"
+    "revision": "ac00c1d2d56622b2f6511acc779908be"
   },
   {
     "url": "469e10a2c9d52272b9df060294671312/nba.jpg",
@@ -126,7 +126,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "5fe157d6cb9f3905951d6c331af83d0e"
+    "revision": "bd3b4b3897429b838290b10e0ef50e23"
   },
   {
     "url": "app-4c373f4d17c3b9d5ed0b.js"
@@ -145,123 +145,135 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/01/03/2020/award/index.html",
-    "revision": "e79aac6d6cf9d3327f90b470648caf8b"
+    "revision": "1930f6bf6610821eecc27befaefc989b"
   },
   {
     "url": "blog/01/03/2020/dynamic_factor_model_chap1/index.html",
-    "revision": "82b5498e317d94276758bc366a87f5ca"
+    "revision": "03aba8ca70d5270c1571409550441fbd"
   },
   {
     "url": "blog/01/03/2020/flag/index.html",
-    "revision": "615d2bdb6fd143773dbf13040edd38d3"
+    "revision": "9b916a69a8884043185823dff0bb6d2e"
   },
   {
     "url": "blog/01/03/2020/scientists_awarded_funding/index.html",
-    "revision": "ee57c767e1cb01f82987d59a7a9cf1ca"
+    "revision": "55cac70cfa53df08c3af6d843279c747"
   },
   {
     "url": "blog/01/03/2020/student_survey/index.html",
-    "revision": "91b4c53e2604d410dad1a940b1163290"
+    "revision": "df243d5e50f50318de822c9b4bd9a78e"
   },
   {
-    "url": "blog/02/05/2020/dataviz_statistics_1/index.html",
-    "revision": "e787ee7fd0158164b3aacb076d294c98"
+    "url": "blog/02/05/2020/dataviz_stats_1/index.html",
+    "revision": "ba863fd3601f4969d4002a5225d10c2f"
   },
   {
     "url": "blog/06/04/2020/chart_choice/index.html",
-    "revision": "0d16a86dfa90be7a7bdf262a0e6bb154"
+    "revision": "56a94582eaeb026674de20c59b9dd273"
+  },
+  {
+    "url": "blog/07/05/2020/dataviz_stats_2/index.html",
+    "revision": "2852fe2681d89e658c27bb71c0fa4abf"
   },
   {
     "url": "blog/20/03/2020/test/index.html",
-    "revision": "fc33aa8f9f1274153f352616f2b6fd14"
+    "revision": "c19243f80e9aaa576cc02d210615387f"
   },
   {
     "url": "blog/21/03/2020/novel_coronavirus_information/index.html",
-    "revision": "a90bf14c5a7cc23f9366d48d6110f5c9"
+    "revision": "35704d7ca7664fce5b67b5dbc03c19db"
   },
   {
     "url": "blog/22/03/2020/how_to_write_blog_post/index.html",
-    "revision": "bd76a32f5d2d29b920acd74eda8d4ae8"
+    "revision": "580560fd5bcd2376ed72fdf0f86eb9ab"
   },
   {
     "url": "blog/26/02/2020/new_dataviz/index.html",
-    "revision": "ad47a0770f29a969132a28ab89982406"
+    "revision": "b195e134c7c397c525d254e7d2a64276"
   },
   {
     "url": "blog/27/02/2020/second_test/index.html",
-    "revision": "ee5f661f7c0e297438eef248b1352af0"
+    "revision": "15e6d71c563d5e2303e48975220b5bfd"
   },
   {
     "url": "blog/category/articles/index.html",
-    "revision": "b137657b5a82c0a93b33e5ca46a1e21c"
+    "revision": "bce3a328ce7be47f07907c034ce36138"
   },
   {
     "url": "blog/category/events/index.html",
-    "revision": "ee206369bb3919338ed1c6871b9bf583"
+    "revision": "29eed5a3809ebc58ad4494138e43cdc5"
   },
   {
     "url": "blog/category/news/index.html",
-    "revision": "5a7b38a844cd8d70730a045bef47f93a"
+    "revision": "0cfbc31236d3c339f203c0dbb9601840"
   },
   {
     "url": "blog/category/tutorial/index.html",
-    "revision": "36bc186f2798f25ff0e0dd0d953eda96"
+    "revision": "8ef1df5840f34bcfc0f3de02c4e1ae78"
   },
   {
     "url": "blog/index.html",
-    "revision": "9eb05decb1af1fb7687bff11f89b3de0"
+    "revision": "c0ac6496b456adc3dd159b14ee99c3d8"
+  },
+  {
+    "url": "blog/page/2/index.html",
+    "revision": "9a378ddedcc5666a9d262a12967fd5e6"
   },
   {
     "url": "blog/tag/award/index.html",
-    "revision": "9c1c137e82fd37efe400e730a89542a1"
+    "revision": "27595e65d10798565d4a26f7e47f0f90"
   },
   {
     "url": "blog/tag/blog/index.html",
-    "revision": "980b8e41dcb3c4aba65004a3e31e54c8"
+    "revision": "d49c561c239d59761423be4075bf6f0c"
   },
   {
     "url": "blog/tag/dataviz/index.html",
-    "revision": "e003302898e02d812146ef3324812965"
+    "revision": "c84ecbc3700d88d107c344587b8ec00e"
   },
   {
     "url": "blog/tag/markdown/index.html",
-    "revision": "47893e7502221e1e5875672bd4e4fde2"
+    "revision": "987d9252aa4b8d444e33a2e2a6505720"
   },
   {
     "url": "blog/tag/neuroscience/index.html",
-    "revision": "0f4bbdeed3bcb286d56b5193d742e74e"
+    "revision": "a9e4c768ce5f3472846f225838866fba"
   },
   {
     "url": "blog/tag/orda/index.html",
-    "revision": "4a8b698a382c37e2163e02451757b91f"
+    "revision": "25ee29b76acc05f7b33cc72d9e6a3878"
+  },
+  {
+    "url": "blog/tag/python/index.html",
+    "revision": "d141155bf07219a5d9b3612e7da23ba4"
   },
   {
     "url": "blog/tag/science/index.html",
-    "revision": "e95f8924ffccec15600164d89578f99b"
+    "revision": "2701fd94e62201ee652b9526a3c85710"
   },
   {
     "url": "blog/tag/staff/index.html",
-    "revision": "512071c96eef12aeb47dc272cd527513"
+    "revision": "9ec67dfe2f3067665934219ec2ff1df7"
   },
   {
     "url": "blog/tag/statistics/index.html",
-    "revision": "a220d1460ed9e74e6dc31a843d3372ff"
+    "revision": "fd53ddd21442ae0f9ff02da5d91f449f"
   },
   {
     "url": "blog/tag/test/index.html",
-    "revision": "98d89494c3cfe2659ea3a2df175d9761"
+    "revision": "6b3d818faeadbc2874d725ff2be1a344"
   },
   {
     "url": "blog/tag/the-university-of-sheffield/index.html",
-    "revision": "bb20062ece22fdbc2b7b619c096562a3"
+    "revision": "fe1781657f23b5bbda240b29775f3f1b"
   },
   {
     "url": "chunk-map.json",
-    "revision": "5fc4b2614c9f94627263e8354a61e615"
+    "revision": "05691f732976eb50700be0717cc09daa"
   },
   {
     "url": "community/index.html",
-    "revision": "e2cb1cc0bea1bf995311bfb92a41510b"
+    "revision": "7bee34f0f0e6bacfb2a0dc5b34054226"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-b0d6f039fb321560c31e.js"
@@ -306,11 +318,11 @@ self.__precacheManifest = [
     "revision": "38682bd5fcc911b0fde2e4d16cb96d4e"
   },
   {
-    "url": "component---src-pages-search-jsx-eb621294e702c01bab0b.js"
+    "url": "component---src-pages-search-jsx-fb4208427479aaeecc72.js"
   },
   {
-    "url": "component---src-pages-search-jsx-eb621294e702c01bab0b.js.map",
-    "revision": "5a786a0093068b33c7a75c16ea52b9c0"
+    "url": "component---src-pages-search-jsx-fb4208427479aaeecc72.js.map",
+    "revision": "9b770f0f12b5ae2998329298c0cb760b"
   },
   {
     "url": "component---src-templates-blog-category-template-jsx-edd95b4fe7c9e6b8de32.js"
@@ -355,6 +367,10 @@ self.__precacheManifest = [
     "revision": "64d78508681f5f0ddd0492f8c19e3f6f"
   },
   {
+    "url": "e127ed0bb7bb8879961719eb8b6b2e02/output_2_1.png",
+    "revision": "e127ed0bb7bb8879961719eb8b6b2e02"
+  },
+  {
     "url": "e5b93ec7fbfd3279934ee6206faa61a6313a699e-7bceb67076fe3a7b3205.js"
   },
   {
@@ -363,7 +379,7 @@ self.__precacheManifest = [
   },
   {
     "url": "events/index.html",
-    "revision": "5b2d691e2f59903b41ed08752dd9a6fc"
+    "revision": "90b3881e9a1b6f7e1a8cba08386ef294"
   },
   {
     "url": "f87efab2a042d1a312b4e66ce9471f96/award.jpg",
@@ -375,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "flexsearch_index.json",
-    "revision": "01e3c7e2dc571bd32a6d6f4b595efd3a"
+    "revision": "e942f9ab78d2956a83525e56d67503a9"
   },
   {
     "url": "framework-10a9839e3a7f539f43b6.js"
@@ -421,7 +437,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5767926bb81eee97139a5205abd9a2c5"
+    "revision": "4b854597b5786112a7850d3ffa4c3d72"
   },
   {
     "url": "manifest.webmanifest",
@@ -429,7 +445,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6773fe185ccd7a8be883d0f3d195029b"
+    "revision": "5eda97946096d4ad494a6cadc208460d"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -445,7 +461,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "6aba310c13762c8e423b90a5c8774694"
+    "revision": "5d99d75a51a28de1185b6f4c0e623825"
   },
   {
     "url": "page-data/blog/01/03/2020/award/page-data.json",
@@ -468,12 +484,16 @@ self.__precacheManifest = [
     "revision": "dfd5c13c206474d0c7a24a60734f5d26"
   },
   {
-    "url": "page-data/blog/02/05/2020/dataviz_statistics_1/page-data.json",
-    "revision": "34498353a0ccbe8b2df701b614aa70aa"
+    "url": "page-data/blog/02/05/2020/dataviz_stats_1/page-data.json",
+    "revision": "09fbeb735ba7bf54a2e7b89dff872d67"
   },
   {
     "url": "page-data/blog/06/04/2020/chart_choice/page-data.json",
-    "revision": "c4102caf88ef41c5e6d59c154a569e4f"
+    "revision": "ab2273aa8db1f7477dd6da0604aa81b5"
+  },
+  {
+    "url": "page-data/blog/07/05/2020/dataviz_stats_2/page-data.json",
+    "revision": "0c3502bbc0efc4c9f38c60ac26814862"
   },
   {
     "url": "page-data/blog/20/03/2020/test/page-data.json",
@@ -497,67 +517,75 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/category/articles/page-data.json",
-    "revision": "c8e26515fa216d05057022251aea3c88"
+    "revision": "3d35d62721620a0f75b1bf3bdd2e770d"
   },
   {
     "url": "page-data/blog/category/events/page-data.json",
-    "revision": "f76f9889af093f7a6f351ef0e0919d68"
+    "revision": "4ac1e8b92f6ec3cdbb8c2873b372137a"
   },
   {
     "url": "page-data/blog/category/news/page-data.json",
-    "revision": "3262668fe54f8dd036cfcdbeb02b2df1"
+    "revision": "734df900c986df2a1a515c0c89de803c"
   },
   {
     "url": "page-data/blog/category/tutorial/page-data.json",
-    "revision": "85e56dd99645108660b6f67095314e79"
+    "revision": "69a9bb7d9f5619302982cbc9c8b4de44"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "feaf0c10497476dd89cfde4826470927"
+    "revision": "8d1d7daafd6aa970cfa2f073c19b2a24"
+  },
+  {
+    "url": "page-data/blog/page/2/page-data.json",
+    "revision": "255d4eebd0b0886d6c614116076abe00"
   },
   {
     "url": "page-data/blog/tag/award/page-data.json",
-    "revision": "7855c30de478bcaf068af2917eff4e1d"
+    "revision": "c4b058dd31926470ab7bc2e51730a059"
   },
   {
     "url": "page-data/blog/tag/blog/page-data.json",
-    "revision": "92f3755fa60bb30f8dbd8e69c7ffd9c9"
+    "revision": "53784ef2473415ba5179edd9b3ff3616"
   },
   {
     "url": "page-data/blog/tag/dataviz/page-data.json",
-    "revision": "be0b952d9e4d098280451578e2d25823"
+    "revision": "b33f4853b8df77e0787af702e586589f"
   },
   {
     "url": "page-data/blog/tag/markdown/page-data.json",
-    "revision": "b48d1d5a69cb017356f2a4a0d1f9799c"
+    "revision": "e62718a40c10db5ebbbb3be3f8e55655"
   },
   {
     "url": "page-data/blog/tag/neuroscience/page-data.json",
-    "revision": "de0cc90ba58e023b670ca651cdd3ba32"
+    "revision": "789edd33edd2f757ddb088941aeb74de"
   },
   {
     "url": "page-data/blog/tag/orda/page-data.json",
-    "revision": "944ee4763f1db4c428fadbd6d41e66d6"
+    "revision": "f5f5e61d04944981d593d9d833c5c611"
+  },
+  {
+    "url": "page-data/blog/tag/python/page-data.json",
+    "revision": "3325b6fbaa2bd1f272614794fd2379a1"
   },
   {
     "url": "page-data/blog/tag/science/page-data.json",
-    "revision": "3dc87c6bc69f2e7f8fd96eea604d4475"
+    "revision": "77bbd06055b6f825c52cf02eb0555a5f"
   },
   {
     "url": "page-data/blog/tag/staff/page-data.json",
-    "revision": "e0aa7a58ad76c19287ea4aae7690fe92"
+    "revision": "89f0961ef9fb35ee566823be89c3c9fe"
   },
   {
     "url": "page-data/blog/tag/statistics/page-data.json",
-    "revision": "20b3a8b517a68420fb9f5ff0328c994e"
+    "revision": "eb27c1ced39d300c90e71a74a29c2db8"
   },
   {
     "url": "page-data/blog/tag/test/page-data.json",
-    "revision": "6f0620667d6cd7fe80c75a71e0ba3cdb"
+    "revision": "d0efcff6c741a692e4342304c232d51b"
   },
   {
     "url": "page-data/blog/tag/the-university-of-sheffield/page-data.json",
-    "revision": "e20d6b224622d84caded99f9f1c22ff7"
+    "revision": "332a3cdcb302e9c81cb7b6d27d947677"
   },
   {
     "url": "page-data/community/page-data.json",
@@ -569,7 +597,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "e52e3b706862045503770be2ac732b2a"
+    "revision": "1ee91143ccbb2494d483981002cd9bb5"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -581,7 +609,7 @@ self.__precacheManifest = [
   },
   {
     "url": "search/index.html",
-    "revision": "0fd64e8e126315d451bacc1056a5d3dc"
+    "revision": "abf1a3f46d8ec86a5fdc046a73f083c8"
   },
   {
     "url": "static/0b4fd531c4d7e2b13cad834b37cad1fc/2244e/Y.L_Weng.jpg"
@@ -1101,15 +1129,15 @@ self.__precacheManifest = [
     "url": "styles.442715e9332bf676595d.css"
   },
   {
-    "url": "webpack-runtime-8271f88309f135b0edec.js"
+    "url": "webpack-runtime-49fd681e2922c0cf09cb.js"
   },
   {
-    "url": "webpack-runtime-8271f88309f135b0edec.js.map",
-    "revision": "3296eb6826980c6403a5c49b899f4682"
+    "url": "webpack-runtime-49fd681e2922c0cf09cb.js.map",
+    "revision": "7d185dbea1e8ba9c83172a161a63dad2"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "aa558ce45d28220b0dd6cc2670e9cdee"
+    "revision": "fd6fee04886bf8116e121bf32920508b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

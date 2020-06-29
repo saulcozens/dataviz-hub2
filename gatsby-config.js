@@ -196,95 +196,95 @@ module.exports = {
       },
     },
     /***************** FLEXSEARCH ********************/
-    {
-      resolve: 'gatsby-plugin-flexsearch',
-      options: {
-        // L
-        languages: ['en'],
-        type: 'Mdx', // Filter the node types you want to index
-        // Fields to index.
-        fields: [
-          {
-            name: 'id',
-            indexed: false, // If indexed === true, the field will be indexed.
-            resolver: 'id',
-            store: true, // In case you want to make the field available in the search results.
-          },
-          {
-            name: 'title',
-            indexed: true, // If indexed === true, the field will be indexed.
-            resolver: 'frontmatter.title',
-            // Attributes for indexing logic. Check https://github.com/nextapps-de/flexsearch#presets for details.
-            attributes: {
-              encode: "extra",
-              tokenize: "strict",
-              threshold: 1,
-              resolution: 9,
-              depth: 4
-            },
-            store: true, // In case you want to make the field available in the search results.
-          },
-          {
-            name: 'description',
-            indexed: true,
-            resolver: 'frontmatter.description',
-            attributes: {
-              encode: "extra",
-              tokenize: "strict",
-              threshold: 1,
-              resolution: 9,
-              depth: 4
-            },
-            store: true,
-          },
-          {
-            name: 'author',
-            indexed: true,
-            resolver: 'frontmatter.author',
-            attributes: {
-              encode: "extra",
-              tokenize: "strict",
-              threshold: 1,
-              resolution: 9,
-              depth: 4
-            },
-            store: true,
-          },
-          {
-            name: 'category',
-            indexed: true,
-            resolver: 'frontmatter.category',
-            attributes: {
-              encode: "extra",
-              tokenize: "strict",
-              threshold: 1,
-              resolution: 9,
-              depth: 4
-            },
-            store: true,
-          },
-          {
-            name: 'tag',
-            indexed: true,
-            resolver: 'frontmatter.tag',
-            attributes: {
-              encode: "extra",
-              tokenize: "strict",
-              threshold: 1,
-              resolution: 9,
-              depth: 4
-            },
-            store: true,
-          },
-          {
-            name: 'url',
-            indexed: true,
-            resolver: 'fields.slug',
-            store: true,
-          },
-        ],
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-flexsearch',
+    //   options: {
+    //     // L
+    //     languages: ['en'],
+    //     type: 'Mdx', // Filter the node types you want to index
+    //     // Fields to index.
+    //     fields: [
+    //       {
+    //         name: 'id',
+    //         indexed: false, // If indexed === true, the field will be indexed.
+    //         resolver: 'id',
+    //         store: true, // In case you want to make the field available in the search results.
+    //       },
+    //       {
+    //         name: 'title',
+    //         indexed: true, // If indexed === true, the field will be indexed.
+    //         resolver: 'frontmatter.title',
+    //         // Attributes for indexing logic. Check https://github.com/nextapps-de/flexsearch#presets for details.
+    //         attributes: {
+    //           encode: "extra",
+    //           tokenize: "strict",
+    //           threshold: 1,
+    //           resolution: 9,
+    //           depth: 4
+    //         },
+    //         store: true, // In case you want to make the field available in the search results.
+    //       },
+    //       {
+    //         name: 'description',
+    //         indexed: true,
+    //         resolver: 'frontmatter.description',
+    //         attributes: {
+    //           encode: "extra",
+    //           tokenize: "strict",
+    //           threshold: 1,
+    //           resolution: 9,
+    //           depth: 4
+    //         },
+    //         store: true,
+    //       },
+    //       {
+    //         name: 'author',
+    //         indexed: true,
+    //         resolver: 'frontmatter.author',
+    //         attributes: {
+    //           encode: "extra",
+    //           tokenize: "strict",
+    //           threshold: 1,
+    //           resolution: 9,
+    //           depth: 4
+    //         },
+    //         store: true,
+    //       },
+    //       {
+    //         name: 'category',
+    //         indexed: true,
+    //         resolver: 'frontmatter.category',
+    //         attributes: {
+    //           encode: "extra",
+    //           tokenize: "strict",
+    //           threshold: 1,
+    //           resolution: 9,
+    //           depth: 4
+    //         },
+    //         store: true,
+    //       },
+    //       {
+    //         name: 'tag',
+    //         indexed: true,
+    //         resolver: 'frontmatter.tag',
+    //         attributes: {
+    //           encode: "extra",
+    //           tokenize: "strict",
+    //           threshold: 1,
+    //           resolution: 9,
+    //           depth: 4
+    //         },
+    //         store: true,
+    //       },
+    //       {
+    //         name: 'url',
+    //         indexed: true,
+    //         resolver: 'fields.slug',
+    //         store: true,
+    //       },
+    //     ],
+    //   },
+    // },
     /***************** END FLEXSEARCH ********************/
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
@@ -297,6 +297,45 @@ module.exports = {
   //        }
   //     }
   //  },
+
+    {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: [`title`, `tag`, `description`, `category`, `date`, `authorName`, `start_date`, `venue`, `path`],
+        // How to resolve each field`s value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields` values
+          Mdx : {
+            title: node => node.frontmatter.title,
+            description: node => node.frontmatter.description,
+            category: node => node.frontmatter.category,
+            tag: node => node.frontmatter.tag,
+            //readingTime: node => node.fields.readingTime.text,
+            date: node => node.frontmatter.date,
+            //slug: node => node.fields.slug,
+            //thumbnail: node => node.frontmatter.thumbnail.childImageSharp.fluid.src,
+            authorName: node => node.frontmatter.author.name,
+            //authorAvatar: node => node.frontmatter.author.avatar.childImageSharp.fluid.src,
+          },
+          eventbriteEvents: {
+            name: node => node.name.text,
+            description: node => node.description.text,
+            startDate: node => node.start.utc(`formatString: "ddd, DD MMM YYYY"`),
+            venue: node => node.address.address_1,
+          },
+          sitePage: {
+            path: node => node.path,
+          },
+          AuthorJson: {
+
+          }
+
+        },
+        // Optional filter to limit indexed nodes
+        filter: (node, getNode) => node.frontmatter.hide !== "true",
+      },
+    },
 
   ],
 }

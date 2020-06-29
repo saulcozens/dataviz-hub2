@@ -5,7 +5,7 @@ import Footer from "../components/footer"
 //import BackgroundSection from "../components_images/search_background"
 import PropTypes from "prop-types"
 import Search from "../components/search"
-
+import { StaticQuery, graphql } from "gatsby"
 
 const searchPage = ({location}) => {
 
@@ -18,8 +18,18 @@ const searchPage = ({location}) => {
       />
       <Header />
       <div className="flex flex-wrap min-h-100">
-        
-        <Search location={location} />
+        <StaticQuery
+          query={graphql`
+            query SearchIndexQuery {
+              siteSearchIndex {
+                index
+              }
+            }
+          `}
+          render={(data) => (
+            <Search location={location} searchIndex={data.siteSearchIndex.index} />
+          )}
+        />
   
       </div>
       <Footer />

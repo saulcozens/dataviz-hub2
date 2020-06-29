@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Yu Liang Weng <y.weng@sheffield.ac.uk>",
   "dependencies": {
+    "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^2.4.2",
     "@mdx-js/mdx": "^1.6.1",
     "@mdx-js/react": "^1.6.1",
     "babel-plugin-styled-components": "^1.10.7",
